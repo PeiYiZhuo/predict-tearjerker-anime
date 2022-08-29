@@ -1,5 +1,7 @@
 # predict-tearjerker-anime
 
+**Note: This project is a work in progress.**
+
 One of the few pieces of media to have ever coaxed tears from me is Kyoto Animation's devastating 2008 anime series *Clannad: After Story*, a show that I enthusiatically recommend. I do so not in spite of the fact that it crushed my soul, mind you, but because of it. If anything, I consider an anime's ability to turn on the waterworks a marker of quality. Most of my favorite anime are considered tearjerkers (In addition to *Clannad: After Story*, *A Place Further than the Universe* and *Your Name* come to mind as notable examples.). Even if I do not tear up while watching them, a decent attempt on the part of an anime's creators garners enormous credit from me nonetheless. 
 
 Given my affinity for the medium, it comes as no surprise that predicting tearjerker anime would be a fun project with which to advance my understanding of machine learning and scikit-learn. Using data scraped off of the website MyAnimeList, courtesy of [Marlesson](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?select=animes.csv) and [Azathoth](https://www.kaggle.com/datasets/azathoth42/myanimelist?select=AnimeList.csv), I ...
